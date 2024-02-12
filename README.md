@@ -1,1 +1,1 @@
-# ref-simple-langchain
+# lego-simple-langchain
